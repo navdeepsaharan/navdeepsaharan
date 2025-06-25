@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Navdeep Saharan
 
-<!--
-**navdeepsaharan/navdeepsaharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer with 3.5+ years of experience  
+🚀 Skilled in Swift, Objective-C, SwiftUI  
+🛠️ Focused on clean architecture and performance  
+📱 Building apps that deliver great user experiences  
 
-Here are some ideas to get you started:
+### 📱 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **NowNow Wallet** – Promo code integration for payments in Nigeria  
+- **itsAVibe** – Social-commerce app with Stripe, RxSwift  
+- **Wetango** – Real-time dating & event app with AWS  
+- **MUNZUL** – Real estate app using MVVM with Coordinators
+
+📫 Reach me at [navisaharan3333@gmail.com](mailto:navisaharan3333@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/navdeepsaharan/)
